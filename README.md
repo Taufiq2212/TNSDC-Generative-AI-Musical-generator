@@ -1,6 +1,5 @@
 
 # Music Generation with LSTM
-# Music Generation with LSTM
 
 This project focuses on using Long Short-Term Memory (LSTM) neural networks to generate music. The goal is to create a model that learns from a dataset of musical sequences and produces new, original compositions. This README provides an overview of the project, including the problem statement, architecture, modeling approach, and instructions for setting up and running the project.
 
